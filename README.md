@@ -1,8 +1,8 @@
-# ✦ Maria Rajesh — Portfolio Website
+# Maria Rajesh — Portfolio Website
 
 A warm, aesthetic portfolio website built with HTML and CSS, inspired by cozy editorial layouts and creative digital design.
 
-## ✦ About
+## About
 
 This portfolio showcases:
 - My featured software projects
@@ -14,7 +14,7 @@ The website was designed with a soft yellow and cream colour palette inspired by
 
 ---
 
-## ✦ Featured Projects
+## Featured Projects
 
 ### FinSmart
 OCR-assisted financial management web application built with:
@@ -37,7 +37,7 @@ Machine learning project using:
 
 ---
 
-## ✦ Technologies Used
+## Technologies Used
 
 - HTML5
 - CSS3
